@@ -1,2 +1,2 @@
 # 1Mer-Parcial
-Chamba de laboratorio
+Chamba de laboratorio de materia de implementa.
